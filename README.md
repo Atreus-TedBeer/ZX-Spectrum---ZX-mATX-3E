@@ -6,6 +6,7 @@ ZX Spectrum +3 clone computer in uATX form factor designed in "Express PCB" v7.0
 [ Bugs:                  ]
 [ A14, A15 missing on U3 ]
 [ diodes providing A14 and A15 signals to U3 missing ]
+[ Slots aren't ZX-BUS compatible (swapped upper with lower pins ]
 
 
  ZX Spectrum +3 clone computer in uATX form factor.
